@@ -45,8 +45,8 @@ My research interests include data mining and deep learning, with a current focu
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition.*
 <span style="color:#1a73e8;"><em>CVPR 2026</em></span>
 
-[**Paper**]()
-[**Code**]()
+[**Paper**](https://github.com/guanzh1997/guanzh1997.github.io/blob/main/docs/CVPR2026.pdf)
+[**Code**](https://github.com/guanzh1997/CVPR26-ANGA/tree/main)
 </div>
 </div>
 
